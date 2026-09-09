@@ -9,4 +9,4 @@ J'ai aussi utilisé l'outil transformation pour agrandir ou rapetir mon personna
 
 Comme problème rencontré, dès lors ou j'appuyais les touche Ctrl+Z pour rentre à mon action précédente, ça annulais complêtement tout mon travail et je n'ai pas trouvé de solution pour y remédier 
 
-inspiration : 
+inspiration : https://www.tsa-algerie.com/video-ronaldinho-dribble-un-joueur-et-le-laisse-sur-la-pelouse/#goog_rewarded DE Aicha Merabet
