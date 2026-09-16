@@ -1,6 +1,6 @@
 # Minecraft
 
-**Montage d'un homme dans un univers parallèle similaire à Minecraft**
+**Montage d'un homme dans un univers parallèle similaire à Minecraft et au bureau de Windows XP**
 
 
 ![](TayoNgueufoYannPharel.png)
