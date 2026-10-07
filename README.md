@@ -21,3 +21,4 @@ je pense que le plus difficille avec l'outil Grease pencil sur PC c'est qu'avec 
 
 Séance 7 : 
 Aujourd'hui j'ai surtout appris à faire un objet tomber en augmentant sa vitesse, pour ça, au fur et à mesure que je dessinais la scène j'ai juste mis un peu plus d'espace entre les dessins de l'objet
+P.S: merci à l'exercice la brique qui tombe
