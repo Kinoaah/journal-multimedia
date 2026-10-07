@@ -18,3 +18,6 @@ j'ai utilisé l'outil Fill pour remplir une surface et l'outil Boîte pour cré�
 Séance 6 :
 Aujourd.hui j'ai aprofondi mes connaisances avec blender surtout les key frames et l'outil grease pencil, et comment les couleurs marches,
 je pense que le plus difficille avec l'outil Grease pencil sur PC c'est qu'avec une souris on arrive pas à une bonne précison je pense que la semaine prochainne je chercherai à faire un projet avec des formes géométriques
+
+Séance 7 : 
+Aujourd'hui j'ai surtout appris à faire un objet tomber en augmentant sa vitesse, pour ça, au fur et à mesure que je dessinais la scène j'ai juste mis un peu plus d'espace entre les dessins de l'objet
